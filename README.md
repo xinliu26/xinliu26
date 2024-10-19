@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Header](./github-header-image.png)
+🌱 My Hugging Face is here: [https://huggingface.co/xiEcho)](https://huggingface.co/xiEcho)
